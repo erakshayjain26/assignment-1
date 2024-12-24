@@ -1,1 +1,1 @@
-second file for testing git status
+second file for testing git status....first file create and comiitted 
